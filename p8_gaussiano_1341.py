@@ -1,3 +1,4 @@
+print("valeria yaretzi NC = 1341")
 import cv2
 import os
 
@@ -49,3 +50,4 @@ cv2.waitKey(0)
 
 # Cerrar ventanas
 cv2.destroyAllWindows()
+print(valeria yaretzi NC = 1341)
